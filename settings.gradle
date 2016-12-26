@@ -1,1 +1,2 @@
-include ':app', ':ptr_lib'
+include ':app'
+include ':androidautoscrollviewpager'
